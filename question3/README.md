@@ -1,7 +1,5 @@
 ## Question 3
 
-(K&R Exercise 1.2) Experiment to find out what happens when printf's argument string contains \c, where c is some character not listed above. 
-
-Experiment with all of the 26 letters in the alphabet.
+Write the logic of invert(x,p,n) that returns x with the n bits that begin at position p inverted (i.e., 1 changed into 0 and vice versa), leaving the others unchanged. As an example, use x=7, p=2, n=1. In addition, provide another example of your choice. (K&R Exercise 2-7) 
 
 Output:
