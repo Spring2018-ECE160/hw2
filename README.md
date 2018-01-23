@@ -5,7 +5,7 @@ Late submissions are subject to a 10% late penalty.
 
 ## Reading
 The C Programming Language, 2nd Edition - Kerninghan & Ritchie  
-Chapter 
+Chapter 2.6-2.12, 3.1-3.3, 1.5
 
 ## Instructions
 
