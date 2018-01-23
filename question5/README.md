@@ -1,7 +1,5 @@
 ## Question 5
 
-Compute and print the perimeter of a 24 inch TWo Bros pizza pie.
-
-Use pi=3.1415
+Write the logic of the lower function (from K&R pg. 43) in main, which converts upper case letters to lower case, with a condition expression instead of if-else. Provide an example to demonstrate your logic. (K&R Exercise 2-10) 
 
 Output:
