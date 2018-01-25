@@ -1,5 +1,5 @@
 ## Question 9
 
-Compute and print the area of a soda can (assuming that it is a simple cylinder) with a radius of 2.5 inches and a height of 6 inches.
+Write a program that accepts a character using getchar and converts the character to its ascii decimal equivalent. Also convert this character to its octal and hexidecimal equivalent. 
 
 Output:
